@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/542659924
 # 动态规划
 常用的DP模型
    1. 背包问题
@@ -52,7 +53,6 @@ f(i,j)：满足上述两个条件的集合里面所有选法的价值的最大�
 1. 不包含第i个物品的选法；
 2. 包含第i个物品的选法。
 
-<img src="picture\picture1.png" alt="图片无法加载时显示的文字" align=center />
-
+![Image](https://pic4.zhimg.com/80/v2-43d34d3bbd9fc7358c02c2318fe3f30e.png)
 
 
