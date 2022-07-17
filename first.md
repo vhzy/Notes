@@ -69,10 +69,10 @@ usr=input()
 
 表格:
 
-| 表头  | 表头  |
-| :---: | :---: |
-| 内容(1,1)  | 内容  |
-| 内容  | 内容  |
+|   表头    | 表头  |
+| :-------: | :---: |
+| 内容(1,1) | 内容  |
+|   内容    | 内容  |
 
 ---
 
@@ -202,3 +202,29 @@ $$
   (1+2)/
 \end{cases}
 $$
+
+
+
+
+
+
+### 常用快捷键
+|     Key      | Command  |
+| :----------: | :------: |
+| Ctrl/Cmd + B |   加粗   |
+| Ctrl/Cmd + I |   斜体   |
+|    ALT+S     |  删除线  |
+|    Ctrl+M    | 数学环境 |
+Alt+S (on Windows)	Toggle strikethrough1
+Ctrl + Shift + ]	Toggle heading (uplevel)
+Ctrl + Shift + [	Toggle heading (downlevel)
+Ctrl/Cmd + M	Toggle math environment
+Alt + C	Check/Uncheck task list item
+Ctrl/Cmd + Shift + V	Toggle preview
+Ctrl/Cmd + K V	Toggle preview to side
+
+:sweat_smile:
+:drooling_face:
+:clown_face:
+
+[来看看我贫瘠的仓库罢](https://github.com/vhzy/Notes/blob/main/algorithm/acwing/DynamicProgramming/dp1-%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
