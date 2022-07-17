@@ -52,7 +52,7 @@ f(i,j)：满足上述两个条件的集合里面所有选法的价值的最大�
 1. 不包含第i个物品的选法；
 2. 包含第i个物品的选法。
 
-<img src="D:\Notes\algorithm\acwing\DynamicProgramming\picture\picture1.png" alt="图片无法加载时显示的文字" align=center />
+<img src="picture\picture1.png" alt="图片无法加载时显示的文字" align=center />
 
 
 
