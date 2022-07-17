@@ -109,6 +109,12 @@ Markdown Preview Enhanced 拓展功能:
 公式块(大括号括起来居中):
 
 $$
+x=\rho\cos\theta
+y=\rho\sin\theta
+$$
+
+
+$$
 \begin{cases}
 x=\rho\cos\theta \\
 y=\rho\sin\theta \\
@@ -228,3 +234,5 @@ Ctrl/Cmd + K V	Toggle preview to side
 :clown_face:
 
 [来看看我贫瘠的仓库罢](https://github.com/vhzy/Notes/blob/main/algorithm/acwing/DynamicProgramming/dp1-%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+ctrl+i打开emoji面板
+github可以看到emoji内容，知乎看不到
