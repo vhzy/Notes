@@ -85,7 +85,7 @@ f(i, j)=\max \left\{f(i-1, j), f\left(i-1, j-v_{i}\right)+w_{i}\right\}
 $$
 
 ![DP分析过程](https://pic4.zhimg.com/80/v2-06c744be1c41be141b8b286c7158ecf3.png)
-
+==注意：==状态转移方程涉及上一层的，下标从1开始，例如上世中的i
 ### 代码实现
 
 **1. 朴素版**
