@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/547565234
 - [贪心Part2](#贪心part2)
   - [排序不等式](#排序不等式)
     - [AcWing 913. 排队打水](#acwing-913-排队打水)
