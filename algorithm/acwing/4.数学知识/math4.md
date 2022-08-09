@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/550365445
 - [数学知识Part4](#数学知识part4)
   - [容斥原理](#容斥原理)
     - [AcWing 890. 能被整除的数](#acwing-890-能被整除的数)
