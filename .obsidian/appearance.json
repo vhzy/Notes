@@ -1,7 +1,28 @@
 {
   "accentColor": "#6b9eef",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Blue Topaz",
   "baseFontSize": 18,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "【卡片视图】cards",
+    "【日记】periodic日历",
+    "【卡片视图】zettelkasten",
+    "【日记】Time",
+    "custom-admonitions.c9c6cb",
+    "【日记】timeline",
+    "【天气】weather",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【图标】双链图标",
+    "【图标】checkbox",
+    "【图标】iconfont",
+    "【自定义】表格样式TableStyles",
+    "【自定义】彩色时钟样式",
+    "【自定义】多彩进度条",
+    "【自定义】myhome 样式",
+    "【自定义】mytools 样式",
+    "【Linkcard】",
+    "【Query】keep-live",
+    "【Memos】Popover"
+  ],
+  "translucency": false
 }

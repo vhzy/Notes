@@ -46,6 +46,9 @@
   "checkbox@@chck-pad": true,
   "checkbox@@chst-q": false,
   "@@": false,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "blue-topaz-theme@@interactive-accent@@dark": "#81CC2D"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@interactive-accent@@dark": "#81CC2D",
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false
 }

@@ -1,5 +1,8 @@
 ---
 banner: "https://api.dujin.org/bing/1920.php"
+---
+---
+banner: "https://api.dujin.org/bing/1920.php"
 cssclass: fullwidth,noyaml,noscroll,myhome
 obsidianUIMode: preview
 ---

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2.Dataset和DataLoader",
+      "path": "pytorch-learn/2.Dataset和DataLoader.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "彩色时钟",
+      "path": "88-Template/彩色时钟.md"
+    },
+    {
+      "basename": "常用工具react",
+      "path": "88-Template/常用工具react.md"
+    },
+    {
+      "basename": "template",
+      "path": "88-Template/script/template/template.md"
+    },
+    {
+      "basename": "2022-10-15-周六",
+      "path": "diary/2022-10-15-周六.md"
+    },
+    {
+      "basename": "data_structure2",
+      "path": "algorithm/acwing/2.数据结构/data_structure2.md"
+    },
+    {
       "basename": "data_structure1",
       "path": "algorithm/acwing/2.数据结构/data_structure1.md"
     },
@@ -87,10 +119,6 @@
     {
       "basename": "Drawing 2022-10-15 15.05.27.excalidraw",
       "path": "Excalidraw/Drawing 2022-10-15 15.05.27.excalidraw.md"
-    },
-    {
-      "basename": "2022-10-15-周六",
-      "path": "diary/2022-10-15-周六.md"
     }
   ],
   "omittedPaths": [],

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1007a13143b706bd",
+        "id": "7929e4ca2ab3f22c",
         "type": "tabs",
         "children": [
           {
-            "id": "76fa43820bfd8e94",
+            "id": "dd6dc5a7967571aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dailynote",
+                "query": "tag:#obsidian做课题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "963d26d3b4b3fcff",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pytorch-learn/2.Dataset和DataLoader.md"
+              }
             }
           },
           {
@@ -147,26 +155,26 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 206
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "76fa43820bfd8e94",
+  "active": "283b578e87ecdb36",
   "lastOpenFiles": [
+    "88-Template/home.md",
+    "88-Template/常用工具.md",
+    "88-Template/彩色时钟.md",
+    "88-Template/常用工具react.md",
+    "88-Template/script/template/template.md",
+    "diary/2022-10-15-周六.md",
     "algorithm/acwing/2.数据结构/data_structure1.md",
     "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
     "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-05.md",
-    "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-05-05_周小结.md",
-    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/进一步阅读原文.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/对 shortlink再做一下测试.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/test_草稿归档.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/这是草稿.md"
+    "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-05-05_周小结.md"
   ]
 }
