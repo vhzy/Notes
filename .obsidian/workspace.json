@@ -11,8 +11,12 @@
             "id": "875678f13635339d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#dailynote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
+              }
             }
           },
           {
@@ -138,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "875678f13635339d",
+  "active": "41e02699b117ee64",
   "lastOpenFiles": [
+    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-05.md",
+    "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-05-05_周小结.md",
+    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md",
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/进一步阅读原文.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/对 shortlink再做一下测试.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/test_草稿归档.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/这是草稿.md",
     "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-04-02_周小结.md",
-    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md",
-    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md",
-    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-05.md",
-    "00templates/obsidian_vault_template_for_researcher/00-MOC/AuthorRanking.md",
-    "00templates/obsidian_vault_template_for_researcher/00-MOC/阅读清单.md"
+    "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md"
   ]
 }
