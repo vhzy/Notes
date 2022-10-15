@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "583f703faf4b4796",
+        "id": "43618814cae0660b",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef4ed148e8fb5f9",
+            "id": "e6f30736a9cb44a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "会议记录/20221015 会议记录测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#标签",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +60,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "29fafad6a91123c9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "会议记录/20221015 会议记录测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "会议记录/20221015 会议记录测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +127,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "会议记录/20221015 会议记录测试.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "f1c0ab8f165a67b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9ef4ed148e8fb5f9",
+  "active": "d0aac842fcc418e8",
   "lastOpenFiles": [
+    "pytorch-learn/9.详细推导自动微分Forward与Reverse模式.md",
+    "会议记录/20221015 会议记录测试.md",
+    "machine_learning/【机器学习】【白板推导系列】【合集 1～23】.pdf",
+    "Excalidraw/Drawing 2022-10-15 15.05.27.excalidraw.md",
+    "diary/2022-10-15-周六.md",
+    "会议记录/未命名.md",
     "00templates/会议记录模板.md",
     "diary/未命名.md",
-    "diary/2022-10-15-周六.md",
     "00templates/日记模板.md",
-    "diary/日记模板.md",
-    "algorithm/acwing/2.数据结构/data_structure1.md",
-    "algorithm/acwing/2.数据结构/Pasted image 20221014205033.png",
-    "first.md",
-    "pytorch-learn/1.Pytorch介绍与张量操作.md",
-    "未命名.md"
+    "diary/日记模板.md"
   ]
 }
