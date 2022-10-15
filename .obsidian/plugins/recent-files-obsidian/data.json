@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "在obsidian中写幻灯片",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
+    },
+    {
+      "basename": "对 shortlink再做一下测试",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/对 shortlink再做一下测试.md"
+    },
+    {
+      "basename": "test_草稿归档",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/test_草稿归档.md"
+    },
+    {
+      "basename": "这是草稿",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/这是草稿.md"
+    },
+    {
+      "basename": "2022-04-02_周小结",
+      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-04-02_周小结.md"
+    },
+    {
+      "basename": "2022-04-02",
+      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md"
+    },
+    {
+      "basename": "2022-05-05",
+      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-05.md"
+    },
+    {
+      "basename": "AuthorRanking",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/AuthorRanking.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/阅读清单.md"
+    },
+    {
+      "basename": "愿望清单",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/愿望清单.md"
+    },
+    {
+      "basename": "试剂库存管理",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/试剂库存管理.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/任务看板.md"
+    },
+    {
+      "basename": "本周事务表",
+      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/本周事务表.md"
+    },
+    {
       "basename": "9.详细推导自动微分Forward与Reverse模式",
       "path": "pytorch-learn/9.详细推导自动微分Forward与Reverse模式.md"
     },
