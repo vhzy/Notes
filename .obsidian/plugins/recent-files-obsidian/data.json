@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "data_structure1",
+      "path": "algorithm/acwing/2.数据结构/data_structure1.md"
+    },
+    {
+      "basename": "28.MAE原理及代码",
+      "path": "pytorch-learn/28.MAE原理及代码.md"
+    },
+    {
+      "basename": "6.深入剖析PyTorch的nn.Sequential及ModuleList源码",
+      "path": "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md"
+    },
+    {
+      "basename": "开箱写日志",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md"
+    },
+    {
+      "basename": "本章小结-恭喜入门obsidian",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md"
+    },
+    {
+      "basename": "Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition",
+      "path": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
+    },
+    {
+      "basename": "2022-10-15",
+      "path": "20-Diary/2022-10-15.md"
+    },
+    {
+      "basename": "Drawing 2022-10-15 20.51.41.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-10-15 20.51.12.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-15 20.51.12.excalidraw.md"
+    },
+    {
       "basename": "2.Dataset和DataLoader",
       "path": "pytorch-learn/2.Dataset和DataLoader.md"
     },
@@ -31,14 +67,6 @@
     {
       "basename": "data_structure2",
       "path": "algorithm/acwing/2.数据结构/data_structure2.md"
-    },
-    {
-      "basename": "data_structure1",
-      "path": "algorithm/acwing/2.数据结构/data_structure1.md"
-    },
-    {
-      "basename": "Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition",
-      "path": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
     },
     {
       "basename": "2022-05-05",
