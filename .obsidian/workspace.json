@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7f70191416732df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "583f703faf4b4796",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef4ed148e8fb5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会议记录/20221015 会议记录测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97cafd97e7d077cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9fd338b4c10b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d616f031934c0a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "283b578e87ecdb36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标签",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0386d850bb928177",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "963d26d3b4b3fcff",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f70e4dc7a04f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48cc20003aeab31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "会议记录/20221015 会议记录测试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8857fbc549494fe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "会议记录/20221015 会议记录测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0aac842fcc418e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41e02699b117ee64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "会议记录/20221015 会议记录测试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9ef4ed148e8fb5f9",
+  "lastOpenFiles": [
+    "00templates/会议记录模板.md",
+    "diary/未命名.md",
+    "diary/2022-10-15-周六.md",
+    "00templates/日记模板.md",
+    "diary/日记模板.md",
+    "algorithm/acwing/2.数据结构/data_structure1.md",
+    "algorithm/acwing/2.数据结构/Pasted image 20221014205033.png",
+    "first.md",
+    "pytorch-learn/1.Pytorch介绍与张量操作.md",
+    "未命名.md"
+  ]
+}

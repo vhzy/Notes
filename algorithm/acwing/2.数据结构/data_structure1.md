@@ -10,13 +10,16 @@
     - [AcWing 830. 单调栈](#acwing-830-单调栈)
     - [AcWing 154. 滑动窗口](#acwing-154-滑动窗口)
   - [KMP算法](#kmp算法)
+---
+
 
 # 数据结构Part1
 
-本节主要说了：
+本节主要说了： 
 - 链表与邻接表
 - 栈和队列
 - KMP算法
+---
 
 ## 链表
 
@@ -134,6 +137,7 @@ void remove(int a)
     l[r[a]] = l[a];
     r[l[a]] = r[a];
 }
+![[Pasted image 20221014205033.png]]
 
 int main()
 {
