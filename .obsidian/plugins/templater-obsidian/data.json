@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "88-Template/script/template",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -27,5 +27,6 @@
   "enabled_templates_hotkeys": [
     "88-Template/tp/tp_foldermoc-Include-subfolders.md"
   ],
-  "startup_templates": []
+  "startup_templates": [],
+  "enable_ribbon_icon": true
 }

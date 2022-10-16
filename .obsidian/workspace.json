@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a62c3a424c6b75e3",
+        "id": "ad922c479ed164cd",
         "type": "tabs",
         "children": [
           {
-            "id": "99d2c5ae0f39853d",
+            "id": "ea168d4a726ab449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch-learn/2.Dataset和DataLoader.md",
+                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
                 "mode": "preview",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f069b0999191a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4b609e64a32567f",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytorch-learn/2.Dataset和DataLoader.md",
+                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytorch-learn/2.Dataset和DataLoader.md",
+                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytorch-learn/2.Dataset和DataLoader.md"
+                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
               }
             }
           },
@@ -158,22 +172,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "99d2c5ae0f39853d",
+  "active": "ea168d4a726ab449",
   "lastOpenFiles": [
-    "00templates/会议记录模板.md",
-    "algorithm/acwing/6.贪心/greedy1.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/跟踪领域内大牛.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125339.png",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220324150712.png",
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/08-Assets.md",
-    "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125059.png"
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220323092800.png",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322202038.png",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322201722.png",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321170113.png",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321170310.png",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321194108.png"
   ]
 }
