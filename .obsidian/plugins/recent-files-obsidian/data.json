@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "在obsidian中写幻灯片",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
+    },
+    {
+      "basename": "Pasted image 20220322125059",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125059.png"
+    },
+    {
+      "basename": "Drawing 2022-10-16 15.51.41.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-16 15.51.41.excalidraw.md"
+    },
+    {
+      "basename": "每周定期汇总小结",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/每周定期汇总小结.md"
+    },
+    {
+      "basename": "开箱写日志",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md"
+    },
+    {
+      "basename": "软件下载安装",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/软件下载安装.md"
+    },
+    {
+      "basename": "使用手机撰写日志",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/使用手机撰写日志.md"
+    },
+    {
+      "basename": "Pasted image 20220322125339",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125339.png"
+    },
+    {
+      "basename": "幻灯片播放",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif"
+    },
+    {
+      "basename": "Pasted image 20220322124645",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322124645.png"
+    },
+    {
+      "basename": "Pasted image 20220324150712",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220324150712.png"
+    },
+    {
+      "basename": "obsidian撰写草稿",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md"
+    },
+    {
+      "basename": "本章小结-恭喜入门obsidian",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md"
+    },
+    {
+      "basename": "tp-日记模板-日历",
+      "path": "88-Template/tp/tp-日记模板-日历.md"
+    },
+    {
+      "basename": "author_count",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/author_count.md"
+    },
+    {
+      "basename": "文件夹目录模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/文件夹目录模板.md"
+    },
+    {
+      "basename": "主题文献比较查询表",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/主题文献比较查询表.md"
+    },
+    {
+      "basename": "思维导图模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/思维导图模板.md"
+    },
+    {
+      "basename": "试剂卡片",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/试剂卡片.md"
+    },
+    {
+      "basename": "实验记录模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/实验记录模板.md"
+    },
+    {
+      "basename": "日志模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/日志模板.md"
+    },
+    {
+      "basename": "每周文献小结",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/每周文献小结.md"
+    },
+    {
+      "basename": "每月总结",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/每月总结.md"
+    },
+    {
+      "basename": "卡片模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/卡片模板.md"
+    },
+    {
+      "basename": "概括文章骨架",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/概括文章骨架.md"
+    },
+    {
+      "basename": "代码整理模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/代码整理模板.md"
+    },
+    {
+      "basename": "大牛页面模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/大牛页面模板.md"
+    },
+    {
+      "basename": "草稿模板",
+      "path": "00templates/obsidian_vault_template_for_researcher/09-Templates/草稿模板.md"
+    },
+    {
+      "basename": "Drawing 2022-10-15 20.51.41.excalidraw",
+      "path": "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md"
+    },
+    {
+      "basename": "🎵Music",
+      "path": "88-Template/🎵Music.md"
+    },
+    {
+      "basename": "blog_plan",
+      "path": "blogs/blog_plan.md"
+    },
+    {
       "basename": "home",
       "path": "88-Template/home.md"
     },
@@ -25,20 +149,8 @@
       "path": "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md"
     },
     {
-      "basename": "开箱写日志",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md"
-    },
-    {
-      "basename": "本章小结-恭喜入门obsidian",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md"
-    },
-    {
       "basename": "Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition",
       "path": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
-    },
-    {
-      "basename": "Drawing 2022-10-15 20.51.41.excalidraw",
-      "path": "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md"
     },
     {
       "basename": "Drawing 2022-10-15 20.51.12.excalidraw",
@@ -87,70 +199,6 @@
     {
       "basename": "进一步阅读原文",
       "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/进一步阅读原文.md"
-    },
-    {
-      "basename": "在obsidian中写幻灯片",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
-    },
-    {
-      "basename": "对 shortlink再做一下测试",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/对 shortlink再做一下测试.md"
-    },
-    {
-      "basename": "test_草稿归档",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/test_草稿归档.md"
-    },
-    {
-      "basename": "这是草稿",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/98-test/这是草稿.md"
-    },
-    {
-      "basename": "2022-04-02_周小结",
-      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-04-02_周小结.md"
-    },
-    {
-      "basename": "2022-05-06",
-      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md"
-    },
-    {
-      "basename": "AuthorRanking",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/AuthorRanking.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/阅读清单.md"
-    },
-    {
-      "basename": "愿望清单",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/愿望清单.md"
-    },
-    {
-      "basename": "试剂库存管理",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/试剂库存管理.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/任务看板.md"
-    },
-    {
-      "basename": "本周事务表",
-      "path": "00templates/obsidian_vault_template_for_researcher/00-MOC/本周事务表.md"
-    },
-    {
-      "basename": "9.详细推导自动微分Forward与Reverse模式",
-      "path": "pytorch-learn/9.详细推导自动微分Forward与Reverse模式.md"
-    },
-    {
-      "basename": "20221015 会议记录测试",
-      "path": "会议记录/20221015 会议记录测试.md"
-    },
-    {
-      "basename": "【机器学习】【白板推导系列】【合集 1～23】",
-      "path": "machine_learning/【机器学习】【白板推导系列】【合集 1～23】.pdf"
-    },
-    {
-      "basename": "Drawing 2022-10-15 15.05.27.excalidraw",
-      "path": "Excalidraw/Drawing 2022-10-15 15.05.27.excalidraw.md"
     }
   ],
   "omittedPaths": [],

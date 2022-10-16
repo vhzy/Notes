@@ -3,7 +3,6 @@
   "file-explorer-note-count",
   "recent-files-obsidian",
   "obsidian-minimal-settings",
-  "obsidian-pandoc",
   "obsidian-mind-map",
   "calendar",
   "obsidian-tasks-plugin",
@@ -19,5 +18,7 @@
   "templater-obsidian",
   "workspaces-plus",
   "buttons",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]
