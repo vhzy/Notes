@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2.Dataset和DataLoader",
+      "path": "pytorch-learn/2.Dataset和DataLoader.md"
+    },
+    {
+      "basename": "会议记录模板",
+      "path": "00templates/会议记录模板.md"
+    },
+    {
+      "basename": "greedy1",
+      "path": "algorithm/acwing/6.贪心/greedy1.md"
+    },
+    {
+      "basename": "跟踪领域内大牛",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/跟踪领域内大牛.md"
+    },
+    {
       "basename": "在obsidian中写幻灯片",
       "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
+    },
+    {
+      "basename": "Pasted image 20220322125339",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125339.png"
+    },
+    {
+      "basename": "obsidian撰写草稿",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md"
+    },
+    {
+      "basename": "Pasted image 20220324150712",
+      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220324150712.png"
+    },
+    {
+      "basename": "08-Assets",
+      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/08-Assets.md"
+    },
+    {
+      "basename": "6.深入剖析PyTorch的nn.Sequential及ModuleList源码",
+      "path": "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md"
     },
     {
       "basename": "Pasted image 20220322125059",
@@ -29,10 +65,6 @@
       "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/使用手机撰写日志.md"
     },
     {
-      "basename": "Pasted image 20220322125339",
-      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125339.png"
-    },
-    {
       "basename": "幻灯片播放",
       "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif"
     },
@@ -41,20 +73,8 @@
       "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322124645.png"
     },
     {
-      "basename": "Pasted image 20220324150712",
-      "path": "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220324150712.png"
-    },
-    {
-      "basename": "obsidian撰写草稿",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md"
-    },
-    {
       "basename": "本章小结-恭喜入门obsidian",
       "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md"
-    },
-    {
-      "basename": "tp-日记模板-日历",
-      "path": "88-Template/tp/tp-日记模板-日历.md"
     },
     {
       "basename": "author_count",
@@ -117,16 +137,8 @@
       "path": "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md"
     },
     {
-      "basename": "🎵Music",
-      "path": "88-Template/🎵Music.md"
-    },
-    {
       "basename": "blog_plan",
       "path": "blogs/blog_plan.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
     },
     {
       "basename": "2022-10-15",
@@ -145,10 +157,6 @@
       "path": "pytorch-learn/28.MAE原理及代码.md"
     },
     {
-      "basename": "6.深入剖析PyTorch的nn.Sequential及ModuleList源码",
-      "path": "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md"
-    },
-    {
       "basename": "Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition",
       "path": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
     },
@@ -157,48 +165,12 @@
       "path": "Excalidraw/Drawing 2022-10-15 20.51.12.excalidraw.md"
     },
     {
-      "basename": "2.Dataset和DataLoader",
-      "path": "pytorch-learn/2.Dataset和DataLoader.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "彩色时钟",
-      "path": "88-Template/彩色时钟.md"
-    },
-    {
-      "basename": "常用工具react",
-      "path": "88-Template/常用工具react.md"
-    },
-    {
-      "basename": "template",
-      "path": "88-Template/script/template/template.md"
-    },
-    {
       "basename": "2022-10-15-周六",
       "path": "diary/2022-10-15-周六.md"
     },
     {
       "basename": "data_structure2",
       "path": "algorithm/acwing/2.数据结构/data_structure2.md"
-    },
-    {
-      "basename": "2022-05-05",
-      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-05.md"
-    },
-    {
-      "basename": "2022-05-05_周小结",
-      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/周小结/2022-05-05_周小结.md"
-    },
-    {
-      "basename": "2022-04-02",
-      "path": "00templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md"
-    },
-    {
-      "basename": "进一步阅读原文",
-      "path": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/进一步阅读原文.md"
     }
   ],
   "omittedPaths": [],

@@ -12,5 +12,6 @@
     "zh-CN"
   ],
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative"
 }

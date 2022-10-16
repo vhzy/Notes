@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd466d4a091c3e39",
+        "id": "a62c3a424c6b75e3",
         "type": "tabs",
         "children": [
           {
-            "id": "91b2e3c1213bbf5d",
+            "id": "99d2c5ae0f39853d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-                "mode": "source",
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
+                "file": "pytorch-learn/2.Dataset和DataLoader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
+                "file": "pytorch-learn/2.Dataset和DataLoader.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "91b2e3c1213bbf5d",
+  "active": "99d2c5ae0f39853d",
   "lastOpenFiles": [
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125059.png",
+    "00templates/会议记录模板.md",
+    "algorithm/acwing/6.贪心/greedy1.md",
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/2-obsidian读文献/跟踪领域内大牛.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-    "Excalidraw/Drawing 2022-10-16 15.51.41.excalidraw.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/每周定期汇总小结.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/软件下载安装.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/使用手机撰写日志.md",
     "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125339.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322124645.png"
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220324150712.png",
+    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/08-Assets.md",
+    "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md",
+    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322125059.png"
   ]
 }
