@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2bfcc14f4f8f7502",
+        "id": "44504a62c38db135",
         "type": "tabs",
         "children": [
           {
-            "id": "63b63c4925b8b7a9",
+            "id": "4dc46ff499de2423",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/acwing/2.数据结构/data_structure1.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/acwing/2.数据结构/data_structure1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/acwing/2.数据结构/data_structure1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "algorithm/acwing/2.数据结构/data_structure1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1d616f031934c0a2",
+  "active": "4dc46ff499de2423",
   "lastOpenFiles": [
+    "88-Template/home.md",
+    "20-Diary/2022-10-15.md",
+    "pytorch-learn/3.PyTorch中搭建分类网络实例.md",
+    "algorithm/acwing/2.数据结构/data_structure1.md",
     "pytorch-learn/28.MAE原理及代码.md",
     "pytorch-learn/6.深入剖析PyTorch的nn.Sequential及ModuleList源码.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md",
     "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md",
     "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
-    "20-Diary/2022-10-15.md",
-    "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-15 20.51.12.excalidraw.md",
-    "pytorch-learn/2.Dataset和DataLoader.md",
-    "88-Template/home.md"
+    "Excalidraw/Drawing 2022-10-15 20.51.41.excalidraw.md"
   ]
 }
