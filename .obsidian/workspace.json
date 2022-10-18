@@ -1,36 +1,58 @@
 {
   "main": {
-    "id": "7f70191416732df3",
+    "id": "9a0780749afe3857",
     "type": "split",
     "children": [
       {
-        "id": "ad922c479ed164cd",
+        "id": "e9d8f627f5ccb1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea168d4a726ab449",
+            "id": "b1d17de30b33ed6d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ob_README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ob_README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":17},\"to\":{\"line\":57,\"ch\":17}},\"scroll\":41.0780523289154}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-                "mode": "preview",
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
+                "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0f069b0999191a94",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f4b609e64a32567f",
+            "id": "5aa9df38d32b9d20",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/新建课题项目.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -39,16 +61,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97cafd97e7d077cd",
+    "id": "169762c0897285b5",
     "type": "split",
     "children": [
       {
-        "id": "bb9fd338b4c10b82",
+        "id": "66a927cf4be47876",
         "type": "tabs",
+        "dimension": 77.21261444557477,
         "children": [
           {
-            "id": "1d616f031934c0a2",
+            "id": "3090910a3bbb4bfa",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -57,61 +89,186 @@
             }
           },
           {
-            "id": "283b578e87ecdb36",
+            "id": "d4cc5673d41093ba",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "0386d850bb928177",
+            "id": "af328bc8c7dd1264",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "starred",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "a2d3d1f4b6a566ca",
+        "type": "tabs",
+        "dimension": 22.787385554425228,
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           },
           {
-            "id": "29fafad6a91123c9",
+            "id": "60ed30d1cc6d4c8d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 215
   },
   "right": {
-    "id": "963d26d3b4b3fcff",
+    "id": "6e7011190a6a4416",
     "type": "split",
     "children": [
       {
-        "id": "69f70e4dc7a04f29",
+        "id": "2c47daab7a7f6b09",
         "type": "tabs",
+        "dimension": 38.66498740554156,
         "children": [
           {
-            "id": "d48cc20003aeab31",
+            "id": "0d92b31ac7bc3511",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bbb6d3769d62dc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 61.33501259445844,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md"
+              }
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
+                "file": "PaperReading/Causal Intervention for Subject-Deconfounded Facial Action Unit Recognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -119,76 +276,202 @@
             }
           },
           {
-            "id": "8857fbc549494fe1",
+            "id": "b925b1fa789215ee",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/3-obsidian做课题/完整导出项目.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":2.8999999364217124}",
+                  "title": "完整导出项目",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":20.293750127156574}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "lines-of-text"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":34},\"to\":{\"line\":9,\"ch\":34}},\"scroll\":0}",
+                  "title": "README",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":38},\"to\":{\"line\":14,\"ch\":38}},\"scroll\":0}",
+                  "title": "python代码说明与调试方法",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/98-test/test3.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}",
+                  "title": "test3",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":18.732307267665504}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":68.7634}",
+                  "title": "zotero-obsidian联动配置",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "lines-of-text"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"09-Templates/文件夹目录模板.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":3},\"to\":{\"line\":10,\"ch\":0}}}",
+                  "title": "文件夹目录模板",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "lines-of-text"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"09-Templates/文件夹目录模板.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}",
+                  "title": "文件夹目录模板",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}",
+                  "title": "结束语",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/4-obsidian附录/更新日志.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":6},\"to\":{\"line\":8,\"ch\":40}}}",
+                  "title": "更新日志",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":20.40625}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "lines-of-text"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":9},\"to\":{\"line\":56,\"ch\":9}},\"scroll\":42.99166742960612}",
+                  "title": "结束语",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":12.71181089546424}",
+                  "title": "99-黑曜石玩家指南",
+                  "icon": "lines-of-text"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.91041644414266}",
+                  "title": "结束语",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":54.09114496875558}",
+                  "title": "README",
+                  "icon": "document"
+                },
+                {
+                  "leaf": "b925b1fa789215ee",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00-MOC/本周事务表.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}",
+                  "title": "本周事务表",
+                  "icon": "lines-of-text"
+                }
+              ]
+            },
             "state": {
-              "type": "outgoing-link",
+              "type": "markdown",
               "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "08-Assets/Scripts/常用工具.md",
+                "mode": "preview",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "d0aac842fcc418e8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "41e02699b117ee64",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/在obsidian中写幻灯片.md"
-              }
-            }
-          },
-          {
-            "id": "f1c0ab8f165a67b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d82a0220f04c9219",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 273,
-    "collapsed": true
+    "width": 229
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ea168d4a726ab449",
+  "active": "b1d17de30b33ed6d",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/本章小结-恭喜入门obsidian.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/08-Assets.md",
-    "00templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220323092800.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322202038.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220322201722.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321170113.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321170310.png",
-    "00templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321194108.png"
+    "ob_README.md",
+    "00-MOC/愿望清单.md",
+    "00-MOC/任务看板.md",
+    "01-Diary/日志存档/2022-05-14.md",
+    "00-MOC/试剂库存管理.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/更新日志.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/obsidian模板库更新方法.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/obsidian第三方插件列表.md"
   ]
 }

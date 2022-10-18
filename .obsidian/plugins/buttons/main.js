@@ -1277,7 +1277,7 @@ const getButtonPosition = (content, args) => {
 const getInlineButtonPosition = async (app, id) => {
     const content = await createContentArray(app);
     const position = { lineStart: 0, lineEnd: 0 };
-    content?.contentArray
+    content.contentArray
         .map((line) => line.split(" "))
         .forEach((words, index) => {
         words.forEach((word) => {
@@ -1551,13 +1551,6 @@ const createButton = ({ app, el, args, inline, id, clickOverride, }) => {
     return button;
 };
 const clickHandler = async (app, args, inline, id) => {
-	 if (args.type === "command") {
-        command(app, args);
-    }
-    // handle link buttons
-    if (args.type === "link") {
-        link(args);
-    }
     const activeView = app.workspace.getActiveViewOfType(obsidian.MarkdownView);
     let content = await app.vault.read(activeView.file);
     let position = inline
@@ -1572,6 +1565,13 @@ const clickHandler = async (app, args, inline, id) => {
     }
     if (args.replace) {
         replace(app, args);
+    }
+    if (args.type === "command") {
+        command(app, args);
+    }
+    // handle link buttons
+    if (args.type === "link") {
+        link(args);
     }
     // handle template buttons
     if (args.type && args.type.includes("template")) {
@@ -4240,18 +4240,18 @@ class ButtonsPlugin extends obsidian.Plugin {
             name: "Insert Inline Button",
             callback: () => new InlineButtonModal(this.app).open(),
         });
-        this.registerMarkdownCodeBlockProcessor("button", async (source, el,ctx) => {
+        this.registerMarkdownCodeBlockProcessor("button", async (source, el) => {
             // create an object out of the arguments
-			 const file = this.app.vault.getFiles().find((f) => f.path === ctx.sourcePath);
-			 addButtonToStore(this.app, file);
-           
+            const activeView = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+            if (activeView) {
+                addButtonToStore(this.app, activeView.file);
                 let args = createArgumentObject(source);
                 const storeArgs = await getButtonFromStore(this.app, args);
                 args = storeArgs ? storeArgs.args : args;
                 const id = storeArgs && storeArgs.id;
                 createButton({ app: this.app, el, args, inline: false, id });
             }
-        );
+        });
         this.registerMarkdownPostProcessor(async (el, ctx) => {
             // Search for <code> blocks inside this element; for each one, look for things of the form `
             const codeblocks = el.querySelectorAll("code");

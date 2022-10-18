@@ -324,24 +324,6 @@ settings:
       - 
         label: Transparent
         value: background-image-settings-markdown-page-transparent
-      - 
-        label: Grid notebook 1 (@CZ-15/YZ-10)
-        value: background-image-settings-markdown-page-grid-notebook-1
-      - 
-        label: Grid notebook 2
-        value: background-image-settings-markdown-page-grid-notebook-2
-      - 
-        label: Dotted notebook 1
-        value: background-image-settings-markdown-page-dotted-notebook-1
-      - 
-        label: Dotted notebook 2
-        value: background-image-settings-markdown-page-dotted-notebook-2
-      - 
-        label: Stripe notebook 1
-        value: background-image-settings-markdown-page-stripe-notebook-1
-      - 
-        label: Stripe notebook 2
-        value: background-image-settings-markdown-page-stripe-notebook-2
   -
     id: background-image-settings-markdown-page-random
     title: Random background
@@ -380,6 +362,35 @@ settings:
         label: Yellow and Orange
         value: background-image-settings-markdown-page-random-yellow-and-orange
   - 
+    id: notebook-liked-markdown-page-options
+    title: Notebook-liked Background
+    title.zh: 类笔记背景
+    type: class-select
+    allowEmpty: false
+    default: non-notebook-bg
+    options:
+      - 
+        label: Non
+        value: non-notebook-bg
+      - 
+        label: Grid notebook 1 (@CZ-15/YZ-10)
+        value: background-image-settings-markdown-page-grid-notebook-1
+      - 
+        label: Grid notebook 2
+        value: background-image-settings-markdown-page-grid-notebook-2
+      - 
+        label: Dotted notebook 1
+        value: background-image-settings-markdown-page-dotted-notebook-1
+      - 
+        label: Dotted notebook 2
+        value: background-image-settings-markdown-page-dotted-notebook-2
+      - 
+        label: Stripe notebook 1
+        value: background-image-settings-markdown-page-stripe-notebook-1
+      - 
+        label: Stripe notebook 2
+        value: background-image-settings-markdown-page-stripe-notebook-2
+  - 
     id: background-settings-markdown-page
     title: 1.2.2.1 Notebook-liked background options
     title.zh: 1.2.2.1 类笔记样式背景设置
@@ -401,8 +412,16 @@ settings:
     default-light: '#'
     default-dark: '#'
   - 
-    id: grid-notebook-line-color
+    id: grid-notebook-line-color-1
     title: Grid notebook line color
+    type: variable-themed-color
+    opacity: true
+    format: hex
+    default-light: '#'
+    default-dark: '#'
+  - 
+    id: grid-notebook-line-color-2
+    title: Grid notebook line color for 'Grid 2'
     type: variable-themed-color
     opacity: true
     format: hex
@@ -8255,8 +8274,9 @@ body.color-scheme-options-simplicity-topaz.theme-light {
 	--border:1px solid var(--simple-gray-5);
 	
 	--background-primary:	var(--simple-white-1);
+ 
+	--background-secondary-alt:	var(--simple-white-2);
 
-	--background-secondary-alt:	var(--simple-gray-5);
 	--background-tertiary: var(--simple-white-3);
 	
 	--background-accent: var(--simple-blue-1);	
@@ -8437,7 +8457,7 @@ body.color-scheme-options-simplicity-topaz .workspace-tab-header-container {
 	/* height:1px; */
 	transition: opacity 0.1s;
 	border-radius: var(--button-radius);
-	box-shadow: var(--window-shadow);
+	box-shadow: none;
 	width: 100%;
 }
 body.color-scheme-options-simplicity-topaz .modal,
@@ -8480,29 +8500,29 @@ body.color-scheme-options-simplicity-topaz [class="menu"] {
 	100% { transform:scale(100%); opacity:1; }
 }
 /* Left dock navigation (new note, new folder, reorder) */
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container:hover + .workspace-leaf .workspace-leaf-content .nav-header {
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container:hover + .workspace-tab-container .workspace-leaf .workspace-leaf-content .nav-header {
   margin-top: 0;
   transition: all 0.3s linear;
 }
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-leaf .workspace-leaf-content .nav-header:hover {
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-tab-container .workspace-leaf .workspace-leaf-content .nav-header:hover {
   margin-top: 0;
 }
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-leaf .workspace-leaf-content .nav-header {
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-tab-container .workspace-leaf .workspace-leaf-content .nav-header {
   margin-top: -30px;
   transition: all 0.6s linear;
 }
 
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] 
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-tab-container .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] 
 .view-content .file-tree-header-fixed {
   position: relative;
   margin-top: -30px;
   transition: all 0.6s linear;
 }
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container:hover + .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] .view-content .file-tree-header-fixed {
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container:hover + .workspace-tab-container .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] .view-content .file-tree-header-fixed {
   margin-top: 0;
   transition: all 0.3s linear;
 }
-body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] .view-content .file-tree-header-fixed:hover{
+body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-tab-container .workspace-leaf .workspace-leaf-content[data-type="file-tree-view"] .view-content .file-tree-header-fixed:hover{
   margin-top: 0;
 }
 
@@ -8612,6 +8632,24 @@ body:not(.is-mobile).color-scheme-options-simplicity-topaz .workspace-fake-targe
 body:not(.is-mobile).color-scheme-options-simplicity-topaz .mod-root .workspace-tabs .workspace-leaf {
   background-color: transparent;
 }
+
+body.color-scheme-options-simplicity-topaz.background-image-settings-switch.background-image-settings-markdown-page-transparent .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header
+{
+  background-color:var(--simple-white-5);
+}
+body.color-scheme-options-simplicity-topaz .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active {
+
+  box-shadow: var(--window-shadow-hover);
+ }
+ body.color-scheme-options-simplicity-topaz .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header {
+   border-radius: 15px;
+   box-shadow: none;
+  }
+ 
+  body.color-scheme-options-simplicity-topaz .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header-inner {
+   border-radius: 15px;
+  }
+  
 /*
 --------------------------- 
 	Main Pane Border Styling 
@@ -19929,7 +19967,7 @@ body.toggle-nonoverlapping-bg .workspace-split.mod-root .view-content {
 body.background-image-settings-switch.background-image-settings-markdown-page-grid-notebook-1 .markdown-reading-view,
 body.background-image-settings-switch.background-image-settings-markdown-page-grid-notebook-1 .markdown-source-view.mod-cm6 .cm-scroller {
   background: var(--bg-color-notebook);
-  background: linear-gradient(90deg, var(--grid-notebook-line-color-1) 3%, transparent 0), linear-gradient(var(--grid-notebook-line-color-1) 3%, transparent 0);
+  background-image: linear-gradient(90deg, var(--grid-notebook-line-color-1) 3%, transparent 0), linear-gradient(var(--grid-notebook-line-color-1) 3%, transparent 0);
   background-size: 20px 20px;
   background-attachment: local !important;
 }
@@ -19958,6 +19996,7 @@ body.background-image-settings-switch.background-image-settings-markdown-page-do
 /*https://www.jianshu.com/p/2b713844cfe9*/
 body.background-image-settings-switch.background-image-settings-markdown-page-grid-notebook-2 .markdown-reading-view,
 body.background-image-settings-switch.background-image-settings-markdown-page-grid-notebook-2 .markdown-source-view.mod-cm6 .cm-scroller {
+  background: var(--bg-color-notebook);
   background-image:
      linear-gradient(var(--grid-notebook-line-color-2) 1px, transparent 0),
      linear-gradient(90deg, var(--grid-notebook-line-color-2) 1px,transparent 0),
@@ -23846,6 +23885,7 @@ body .popover.hover-popover:not(.is-loaded) :is(.markdown-preview-view,.markdown
 }
 .callout-content {
   padding-left: 10px;
+  padding-right: 10px;
 }
 .callout img[alt*=circle] {
   border-radius: 35px;
@@ -23855,8 +23895,13 @@ body .popover.hover-popover:not(.is-loaded) :is(.markdown-preview-view,.markdown
 /* ===编辑代码块按钮调整============ */
 .markdown-source-view.mod-cm6 .cm-embed-block {
   border: 0;
-  padding-top: 9px;
+ 
 }
+.markdown-source-view.mod-cm6 .cm-embed-block:hover {
+  box-shadow: 0 3px 8px 0 rgba(var(--mono-rgb-100), .25);
+  transition: all .2s ease-in-out;
+}
+
 .markdown-source-view.mod-cm6 .edit-block-button {
   padding: 0;
   top: 0;
@@ -25246,6 +25291,17 @@ body.head-tag-style .cm-s-obsidian .cm-header ~  span.cm-hashtag {
  font-size: calc(var(--font-size-tag) - 0.3em)!important;
  vertical-align: top;
 }
+body.head-tag-style .cm-s-obsidian .cm-formatting.cm-formatting-hashtag.cm-hashtag.cm-hashtag-begin.cm-header, 
+body.head-tag-style .cm-s-obsidian .cm-hashtag.cm-header
+{
+  vertical-align: top;
+}
+
+
+body:not(.tag-default) .cm-s-obsidian .cm-header ~  span.cm-hashtag {
+  font-size: calc(var(--font-size-tag) - 0.3em)!important;
+}
+ 
 
 body.head-tag-style :is(.markdown-preview-view,.markdown-rendered) :is(h1,h2,h3,h4,h5,h6) >.tag:not(.token) {
   font-size: calc(var(--font-size-tag) - 0.3em);
@@ -25259,6 +25315,15 @@ body.head-tag-style :is(.markdown-preview-view,.markdown-rendered) :is(h1,h2,h3,
   vertical-align: middle;
   margin-top: -0.3em;
 }
+
+ 
+
+body.head-tag-style .cm-s-obsidian .cm-formatting.cm-formatting-hashtag.cm-hashtag.cm-hashtag-begin.cm-header, 
+body.head-tag-style .cm-s-obsidian .cm-hashtag.cm-header
+{
+  vertical-align: top;
+}
+
 
 :is(.markdown-preview-view,.markdown-rendered) :is(h1,h2,h3,h4,h5,h6) >.tag:not(.token) {
   font-size: calc(var(--font-size-tag) - 0.2em);
@@ -25328,7 +25393,10 @@ body:not(.remove-selectionbackground) .markdown-source-view.mod-cm6 .cm-editor .
   border-right: 1px solid var(--page-border-bottom);
   box-shadow: -1px 0 10px 0 var(--tab-stacked-shadow);
 }
-
+.workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header:first-child
+{
+ border-left: 1px solid var(--page-border-bottom);
+}
 .workspace-ribbon.side-dock-ribbon.mod-left {
   background: var(--background-secondary-alt);
 }
